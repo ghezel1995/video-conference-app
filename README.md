@@ -78,7 +78,7 @@ This application allows users to make real-time video calls using WebRTC technol
 1. Clone the repository
 
 ```sh
-git clone <repo-url>
+git clone https://github.com/ghezel1995/video-conference-app
 ```
 
 ---
